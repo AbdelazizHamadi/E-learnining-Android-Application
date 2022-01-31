@@ -9,7 +9,7 @@ Android application that teaches students how to start in the programming world 
 * XML
 * SQLite
 
-![](Screenshots/look_on_phone.jpg)
+<img src="Screenshots/look_on_phone.jpg" alt="drawing" width="250" />
 
 **Note** : in this repository you will find only the java & XML files, so in order to get this code to work, copy this folder in `your_Project/App/` along with your build folder
 
@@ -24,7 +24,7 @@ Android application that teaches students how to start in the programming world 
 
 #### Home page
 
-<img src="Screenshots/homepage.jpg" alt="drawing" width="300"/>
+<img src="Screenshots/homepage.jpg" alt="drawing" width="250"/>
 
 #### Main Screens
 |Choose your language |Choose your teacher| Choose to study or take a tests|
@@ -40,4 +40,4 @@ Android application that teaches students how to start in the programming world 
 
 #### Split screen scroll preview
 
-<img src="Screenshots/scroll_gif.gif" alt="drawing" width="450"/>|
+<img src="Screenshots/scroll_gif.gif" alt="drawing" width="250"/>|
